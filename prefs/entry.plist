@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = DarkBoardPrefs;
+	cell = PSLinkCell;
+	detail = DarkBoardPrefsListController;
+	icon = DarkBoardPrefs.png;
+	isController = 1;
+	label = DarkBoard;
+    };
+}
